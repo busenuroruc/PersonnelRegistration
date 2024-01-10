@@ -1,2 +1,2 @@
 # PersonnelRegistration
-Personnel Register 
+Personnel Register with React.js and Laravel
